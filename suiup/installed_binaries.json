@@ -1,0 +1,18 @@
+{
+  "binaries": [
+    {
+      "binary_name": "sui",
+      "network_release": "testnet",
+      "version": "v1.57.0",
+      "debug": false,
+      "path": "/Users/ulas/.local/share/suiup/binaries/testnet/sui-v1.57.0"
+    },
+    {
+      "binary_name": "mvr",
+      "network_release": "standalone",
+      "version": "v0.0.14",
+      "debug": false,
+      "path": "/Users/ulas/.local/share/suiup/binaries/standalone/mvr-v0.0.14"
+    }
+  ]
+}

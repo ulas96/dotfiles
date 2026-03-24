@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tsconfig.json": "^1.0.11",
+    "vercel": "^45.0.9"
+  }
+}

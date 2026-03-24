@@ -1,0 +1,12 @@
+{
+  "mvr": [
+    "standalone",
+    "v0.0.14",
+    false
+  ],
+  "sui": [
+    "testnet",
+    "v1.57.0",
+    false
+  ]
+}
